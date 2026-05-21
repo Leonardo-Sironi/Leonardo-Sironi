@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Leonardo Sironi
+# Leonardo Sironi da Rosa
 
 ## 🚀 Java Backend Developer
 
@@ -11,27 +11,22 @@
 
 ## 🛠 Tecnologias
 
-<div style="display: inline_block"><br>
+<p align="left">
 
-<img align="center" alt="Java" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
 
-<img align="center" alt="Spring" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
 
-<img align="center" alt="Postgres" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
 
-<img align="center" alt="Docker" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
 
-<img align="center" alt="Git" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 
-<img align="center" alt="NextJS" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
 
-</div>
+</p>
+
 
 ---
 
@@ -79,10 +74,10 @@ https://barbearia-reis23-demo.vercel.app/
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Leonardo-Sironi&show_icons=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=Leonardo-Sironi&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Sironi&layout=compact&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Sironi&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </div>
 
@@ -93,7 +88,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Sir
 <div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Sironi&theme=tokyonight"
+src="https://streak-stats.demolab.com?user=Leonardo-Sironi&theme=tokyonight"
 />
 
 </div>
