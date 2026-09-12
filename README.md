@@ -1,10 +1,12 @@
 # Leonardo Sironi da Rosa
 
-## 🚀 Java Backend Developer
+## 🚀 Java Backend Developer em formação
 
-💻 Desenvolvedor focado em Java Backend  
-📚 Estudando Spring Boot, APIs REST, PostgreSQL e Docker  
-🎯 Buscando primeira oportunidade como Desenvolvedor Java Jr  
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — concluído  
+📚 Cursando Engenharia de Software  
+💻 Focado em desenvolvimento Java Backend  
+🧠 Construindo projetos com evolução progressiva de Java/POO para Spring Boot, APIs REST, PostgreSQL e Docker  
+🎯 Buscando minha primeira oportunidade como Desenvolvedor Java Jr / Backend Jr  
 📍 Canoas - RS, Brasil
 
 ---
@@ -23,16 +25,41 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
-
 </p>
-
 
 ---
 
 ## 📌 Projetos em destaque
 
+### 🚀 FlowOps
+
+Plataforma de automação de processos operacionais e gerenciamento de workflows.
+
+A primeira versão foi construída em Java puro com foco em Programação Orientada a Objetos, regras de negócio, collections, exceptions, interfaces e separação de responsabilidades.
+
+Atualmente o projeto já possui:
+
+✔ Gerenciamento de tarefas  
+✔ Atribuição de funcionários  
+✔ Controle de status e prioridades  
+✔ Controle de prazos  
+✔ Detecção de tarefas atrasadas  
+✔ Revisão e aprovação por gerente  
+✔ Filtros e métricas básicas  
+✔ Exceptions personalizadas  
+✔ Abstração de notificações  
+
+Roadmap:
+
+Java + POO → Spring Boot → REST API → PostgreSQL → JPA/Hibernate → Testes → Security/JWT → Docker → RabbitMQ → CI/CD → Deploy
+
+🔗 Repositório:  
+https://github.com/Leonardo-Sironi/flowops
+
+---
+
 ### 🔥 FraudShield API
+
 Sistema antifraude bancário desenvolvido em Java + Spring Boot.
 
 ✔ API REST  
@@ -45,7 +72,8 @@ Sistema antifraude bancário desenvolvido em Java + Spring Boot.
 ---
 
 ### 💈 Sistema de Agendamento Java
-Sistema completo de agendamento para barbearia utilizando Java POO.
+
+Sistema de agendamento para barbearia utilizando Java e Programação Orientada a Objetos.
 
 ✔ Cadastro  
 ✔ Cancelamento  
@@ -55,52 +83,12 @@ Sistema completo de agendamento para barbearia utilizando Java POO.
 
 ---
 
-### 🌐 Barbearia Web App
-Sistema web moderno para agendamento online.
-
-✔ Next.js  
-✔ Firebase  
-✔ Firestore  
-✔ Responsivo  
-✔ Deploy online  
-
-🔗 Demo:
-https://barbearia-reis23-demo.vercel.app/
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Leonardo-Sironi&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Sironi&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-
-</div>
-
----
-
-## 🔥 Sequência de commits
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=Leonardo-Sironi&theme=tokyonight"
-/>
-
-</div>
-
----
-
 ## 📫 Contato
 
 📧 Email: leosironi4@gmail.com
 
-💼 LinkedIn:
+💼 LinkedIn:  
 https://www.linkedin.com/in/leonardo-sironi
 
-🐙 GitHub:
+🐙 GitHub:  
 https://github.com/Leonardo-Sironi
